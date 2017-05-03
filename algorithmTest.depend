@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1463145989 source:d:\codeblockproject\algorithmtest\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1463646681 source:c:\users\wen-ting\documents\github\algorithmtest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
